@@ -48,11 +48,10 @@ li {
 
 header {
     padding: 60px 0;
-    background-image: url("../images/bg-pattern-intro.svg"), linear-gradient(to right, var(--very-light-red), var(--light-red));
+    background-image: url("./images/bg-pattern-intro.svg"), linear-gradient(to right, var(--very-light-red), var(--light-red));
     background-repeat: no-repeat;
     background-size: 220%, 100%;
     background-position: 25% 52%, top left;
-    background-attachment: scroll;
     height: 600px;
     color: var(--text);
     border-bottom-left-radius: 100px;
@@ -93,7 +92,7 @@ nav .drop-container > li {
 }
 
 nav .drop-container > li::after {
-    content: url(../images/icon-arrow-light.svg);
+    content: url(./images/icon-arrow-light.svg);
     position: relative;
     left: 10px;
     bottom: 2px;
