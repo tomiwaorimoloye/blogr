@@ -52,6 +52,7 @@ header {
     background-repeat: no-repeat;
     background-size: 220%, 100%;
     background-position: 25% 52%, top left;
+    background-attachment: scroll;
     height: 600px;
     color: var(--text);
     border-bottom-left-radius: 100px;
