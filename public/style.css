@@ -48,7 +48,7 @@ li {
 
 header {
     padding: 60px 0;
-    background-image: url("./images/bg-pattern-intro.svg"), linear-gradient(to right, var(--very-light-red), var(--light-red));
+    background-image: url(./images/bg-pattern-intro.svg), linear-gradient(to right, var(--very-light-red), var(--light-red));
     background-repeat: no-repeat;
     background-size: 220%, 100%;
     background-position: 25% 52%, top left;
